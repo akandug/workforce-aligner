@@ -28,6 +28,10 @@ The organization operates on a rigid, flat staffing model (averaging 4 agents pe
 
 ## Charts
 The Tableau workbook is structured around three foundational visual proofs:
+[Dashboard Screenshot](https://github.com/akandug/workforce-aligner/blob/main/workalignerDashboard1.PNG)
+[Dashboard Screenshot2] ()
+[csv file] ()
+[sql file]()
 
 ### 1. The Demand vs. Timeline Scatter Plot
 * **X-Axis:** Time of Day (Hours 0–23)
