@@ -29,7 +29,7 @@ The organization operates on a rigid, flat staffing model (averaging 4 agents pe
 ## Charts
 The Tableau workbook is structured around three foundational visual proofs:
 [Dashboard Screenshot](https://github.com/akandug/workforce-aligner/blob/main/workalignerDashboard1.PNG)
-[Dashboard Screenshot2] ()
+[Dashboard Screenshot2] (https://github.com/akandug/workforce-aligner/blob/main/workalignerDashboard2.PNG)
 [csv file] ()
 [sql file]()
 
